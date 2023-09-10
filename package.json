@@ -1,0 +1,17 @@
+{
+  "name": "ultima",
+  "version": "1.0.0",
+  "description": "Projeto M3 Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Anne Rocha",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
